@@ -4,4 +4,12 @@ Neste repositório você encontrará o projeto desenvolvido no curso [STM32 do j
 
 ## O curso
 
-Aprenda a programar o seu STM32 sem utilizar IDE, não que elas não sejam importantes, muito pelo contrário, porém acredito que você queira saber mais o que elas fazem para você, dá um passo a frente no seu aprendizado ou já é experiente e deseja entender mais sobre ferramentas gratuitas e como elas são utilizadas nos grandes projetos de firmware open source. 
+Aprenda a programar o seu STM32 é um curso para você que quer dar um passo à frente no seu aprendizado ou já é experiente e deseja entender mais sobre ferramentas gratuitas e como elas são utilizadas nos grandes projetos de firmware open source.
+
+## Ferramentas
+
+- GDB
+- Open OCD
+- GNU Arm
+- GNU Make
+
