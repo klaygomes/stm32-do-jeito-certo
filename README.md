@@ -13,3 +13,11 @@ Aprenda a programar o seu STM32 é um curso para você que quer dar um passo à 
 - GNU Arm
 - GNU Make
 
+## Ambiente de desenvolvimento
+
+Siga os passos desse [artigo](https://www.estacouveflor.com/stm32-sem-usar-ide/) para baixar e configurar as ferramentas que serão utilizadas durante o desenvolvimento do projeto, nele também ensino como baixar os dois arquivos do CMISIS.
+
+## Projeto
+
+1. Estrutura de arquivo
+2. 
